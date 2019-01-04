@@ -1,0 +1,21 @@
+body {
+	background-color:#222;
+}
+ul, p {
+	font-family: Inconsolata; 
+	color:#fff;
+	font-size: 0.9em;
+}
+
+a {
+	color:#aaa;
+	 text-decoration: none;
+	}
+
+a:hover {
+	color:#ccc;
+}
+
+hr {
+	border: 0px; border-top:1px solid #666;
+}
