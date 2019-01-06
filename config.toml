@@ -1,5 +1,12 @@
 baseURL = "http://matthewdharris.net/"
 languageCode = "en-us"
 title = "Matthew's homepage"
-theme = "ananke"
+theme = "hermit"
 googlefonts="https://fonts.googleapis.com/css?family=Inconsolata"
+
+[menu]
+	
+	[[menu.main]]
+		name = "About"
+		urk = "about/"
+		weight = 20
